@@ -1,4 +1,4 @@
-﻿# ☁️ Cloud Chamber V2 – Peltier-Cooled Particle Detector
+﻿# ☁️ Cloud Chamber – Peltier-Cooled Particle Detector
 
 A fully custom-built **cloud chamber** designed to visualize ionizing particles using thermoelectric cooling, alcohol vapor, and electric field control. Built from scratch using Peltier elements, water cooling, and a touchscreen interface for real-time monitoring and control.
 
