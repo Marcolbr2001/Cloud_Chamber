@@ -34,14 +34,16 @@ A **touchscreen display** allows users to:
 
 ## 🖼️ Images
 
-### 📦 Construction Phase
-<p align="center"> <img src="https://github.com/user-attachments/assets/23f7969d-1943-4642-8b9c-0758fa434a94" alt="Construction phase" width="500"/> </p>
 
 ### ✨ Operational View
 <p align="center"> <img src="https://github.com/user-attachments/assets/5c9d3f43-40d9-40d1-8693-3f338915dc58" alt="Chamber on" width="500"/> </p>
 <p align="center"> <img src="https://github.com/user-attachments/assets/0dd0311a-0c6d-4123-b3af-6a66448d3c83" alt="Chamber illuminated" width="500"/> </p>
 
-![camp](https://github.com/user-attachments/assets/0dd0311a-0c6d-4123-b3af-6a66448d3c83)
+
+
+
+### 📦 Construction Phase
+<p align="center"> <img src="https://github.com/user-attachments/assets/23f7969d-1943-4642-8b9c-0758fa434a94" alt="Construction phase" width="500"/> </p>
 
 Why do we choose liquid cooler?
 <p align="center"> <img src="https://github.com/user-attachments/assets/6b176e9f-cd7c-4a02-90d2-e081bc61d8ab" alt="Sensor analysis" width="600"/> </p>---
