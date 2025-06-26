@@ -4,6 +4,18 @@ A fully custom-built **cloud chamber** designed to visualize ionizing particles 
 
 ---
 
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://youtu.be/soM0Bwh30M0" target="_blank">
+    <img src="https://img.youtube.com/vi/soM0Bwh30M0/hqdefault.jpg" alt="Watch the video" width="600">
+  </a>
+</p>
+
+Watch the chamber in action as it visualizes ionizing particle tracks!
+
+--- 
+
 ## 🔬 Project Overview
 
 This cloud chamber uses:
@@ -49,19 +61,6 @@ Work-in-progress shot of the chamber wiring and power supply assembly. You can s
 Why we chose liquid cooling?
 <p align="center"> <img src="https://github.com/user-attachments/assets/6b176e9f-cd7c-4a02-90d2-e081bc61d8ab" alt="Sensor analysis" width="600"/> </p>
 Graphical analysis of internal temperatures over time. Liquid cooling was adopted for the bottom Peltier to ensure a stable and efficient heat transfer, avoiding overheating and maintaining the necessary thermal gradient for vapor condensation.
-
-
-<p align="center"> <img src="https://github.com/user-attachments/assets/6b176e9f-cd7c-4a02-90d2-e081bc61d8ab" alt="Sensor analysis" width="600"/> </p>---
-
-## 🎥 Demo Video
-
-<p align="center">
-  <a href="https://youtu.be/soM0Bwh30M0" target="_blank">
-    <img src="https://img.youtube.com/vi/soM0Bwh30M0/hqdefault.jpg" alt="Watch the video" width="600">
-  </a>
-</p>
-
-Watch the chamber in action as it visualizes ionizing particle tracks!
 
 ---
 
