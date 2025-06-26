@@ -37,15 +37,20 @@ A **touchscreen display** allows users to:
 
 ### ✨ Operational View
 <p align="center"> <img src="https://github.com/user-attachments/assets/5c9d3f43-40d9-40d1-8693-3f338915dc58" alt="Chamber on" width="500"/> </p>
+The chamber fully powered: the touchscreen interface is active, the LEDs are turned on, and the Peltier modules are engaged. In this phase, the internal environment is fully cooled and ready for vapor saturation.
+
 <p align="center"> <img src="https://github.com/user-attachments/assets/0dd0311a-0c6d-4123-b3af-6a66448d3c83" alt="Chamber illuminated" width="500"/> </p>
-
-
-
+Inside view of the cooled chamber. A radiation source object is placed at the center, allowing the visualization of ionizing particle trails as they interact with the supersaturated alcohol vapor.
 
 ### 📦 Construction Phase
 <p align="center"> <img src="https://github.com/user-attachments/assets/23f7969d-1943-4642-8b9c-0758fa434a94" alt="Construction phase" width="500"/> </p>
+Work-in-progress shot of the chamber wiring and power supply assembly. You can see the Peltier units and the copper pipes used for the water-cooling circuit, along with the distribution box for power management.
 
-Why do we choose liquid cooler?
+Why we chose liquid cooling?
+<p align="center"> <img src="https://github.com/user-attachments/assets/6b176e9f-cd7c-4a02-90d2-e081bc61d8ab" alt="Sensor analysis" width="600"/> </p>
+Graphical analysis of internal temperatures over time. Liquid cooling was adopted for the bottom Peltier to ensure a stable and efficient heat transfer, avoiding overheating and maintaining the necessary thermal gradient for vapor condensation.
+
+
 <p align="center"> <img src="https://github.com/user-attachments/assets/6b176e9f-cd7c-4a02-90d2-e081bc61d8ab" alt="Sensor analysis" width="600"/> </p>---
 
 ## 🎥 Demo Video
